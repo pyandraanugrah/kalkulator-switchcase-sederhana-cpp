@@ -9,9 +9,3 @@ Proyek ini adalah kalkulator sederhana yang dibuat dengan bahasa C++ menggunakan
 - Validasi pembagian dengan nol
 - Output hasil perhitungan
 
-## Cara Menjalankan
-
-1. Kompilasi file `.cpp`:
-   ```bash
-   g++ kalkulator.cpp -o kalkulator
-   ./kalkulator
